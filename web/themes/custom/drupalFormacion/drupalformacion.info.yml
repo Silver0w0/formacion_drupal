@@ -1,0 +1,6 @@
+name: Drupal Formacion Tema
+type: theme
+description: "Tema basado en Olivero para hacer la práctica"
+core_version_requirement: ^9 || ^10
+core: 9.x
+base theme: olivero
